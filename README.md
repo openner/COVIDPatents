@@ -10,4 +10,4 @@ For a more indepth, but sometimes raw, overview of the project and its component
 
 The project as a whole can be run as a binder [here](https://mybinder.org/v2/gh/openner/COVIDPatents/master). Once the binder is up and running, replacing "tree" with "lab" will run it as a JupyterLab. Although, please note that because the data is not also stored in GitHub the extent to which you can actually run the notebooks is (for now) limited.
 
-The project is being actively developed and is still in its early stages. I ([Orion Penner](orion.penner@gmail.com)) encourage you to reach out with questions, concerns, or if you are interested in being involved.
+The project is being actively developed and is still in its early stages. I ([Orion Penner](mailto:orion.penner@gmail.com)) encourage you to reach out with questions, concerns, or if you are interested in being involved.
